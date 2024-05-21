@@ -31,7 +31,6 @@
 /central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/binsanity.asm_contigs_metaspades_gt1500_Bin-23-refined_0.contigs.fa
 /central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/concoct.94.contigs.fa
 /central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/binsanity.asm_contigs_metaspades_gt1500_Bin-29.contigs.fa
-/central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/.DS_Store
 /central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/Pelagibac1_maxbin2.021.contigs.fa
 /central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/NOB1_metabat2.51.fa
 /central/groups/carnegie_poc/xsun10/aerfalan/SunWard_ETSP2013_fasta/concoct.61.contigs.fa
